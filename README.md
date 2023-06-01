@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Tinsel19
+<h1>👋 Hi, I’m @Tinsel19</h1>
+                           
 - 👀 I’m interested in Mobile Application development
 - 🌱 I’m currently taking a ALX software engineering course
 - 💞️ I’m looking to collaborate on open source projects
